@@ -14,7 +14,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Data bases**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 Feel free to reach me out **alejandro.quintanillaea@gmail.com**
 

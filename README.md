@@ -12,9 +12,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **App development**
 
 - 📫 Feel free to reach me out **alejandro.quintanillaea@gmail.com**
 

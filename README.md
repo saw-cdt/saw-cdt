@@ -21,11 +21,9 @@
 <!--Intro end-->
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=normal&bg_color=0d1117&text_color=ffffff" alt="stats2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="stats" />Add commentMore actions
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&bg_color=0d1117&text_color=ffffff" alt="stats2" />
 </p>
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

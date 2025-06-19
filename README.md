@@ -23,7 +23,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saw-cdt&show_icons=true&locale=en&langs_count=5&layout=compact&bg_color=0d1117&text_color=ffffff&layout=compact" alt="languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saw-cdt&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&layout=compact" alt="languages" />
 </p>
 
 

@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,22 +8,18 @@
   </ul>
 </div>
 
-
-
 <!--Intro start-->
 - 🔭 I’m currently working on **Javascript**
-
 - 🌱 I’m currently learning **Web development**
-
 - 📫 Feel free to reach me out **alejandro.quintanillaea@gmail.com**
-
 <!--Intro end-->
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff" alt="stats" height="200px"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&bg_color=0d1117&text_color=ffffff" alt="stats2" height="200px"/>
+  <!-- Stats card (forzado refresh con v=2) -->
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff&v=2&cache_seconds=1800" alt="stats" height="200px"/>
+  <!-- Top languages (forzado refresh con v=2) -->
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&langs_count=8&bg_color=0d1117&text_color=ffffff&v=2&cache_seconds=1800" alt="top languages" height="200px"/>
 </p>
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -32,13 +27,13 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,linux,&perline=14" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,linux&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -50,18 +45,20 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandro-quintanilla-leal-26a360274/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/alex.ql16/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/alejandro-quintanilla-leal-26a360274/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/alex.ql16/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+  </a>
 </p>
-
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saw-cdt&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

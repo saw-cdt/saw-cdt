@@ -1,5 +1,5 @@
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="divider" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
@@ -7,22 +7,6 @@
 
 ### 📫 Feel free to reach me out  
 **alejandro.quintanillaea@gmail.com**
-
----
-
-<p align="center">
-  <!-- Stats Card -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=saw-cdt&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=7200" 
-       alt="GitHub Stats" 
-       height="200px" />
-  
-  <!-- Top Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&langs_count=8&theme=github_dark&cache_seconds=7200" 
-       alt="Top Languages" 
-       height="200px" />
-</p>
 
 ---
 

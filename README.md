@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
----
-
 ### 📫 Feel free to reach me out  
 **alejandro.quintanillaea@gmail.com**
 
@@ -31,14 +29,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="50" width="50"/>
   </a>
 </p>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=saw-cdt&color=blueviolet&style=for-the-badge)
-
-</div>
 
 ---
 

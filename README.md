@@ -6,8 +6,6 @@
 ### 📫 Feel free to reach me out  
 **alejandro.quintanillaea@gmail.com**
 
----
-
 <h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
 
 <p align="center">
@@ -15,8 +13,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,python,cpp,js,react,express,java,mysql,linux&perline=8" alt="skills"/>
   </a>
 </p>
-
----
 
 <h2 align="center">Connect With Me 🤝</h2>
 

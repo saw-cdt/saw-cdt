@@ -1,62 +1,61 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="divider" width="100%">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Alex</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
-<!--Intro start-->
-- 📫 Feel free to reach me out **alejandro.quintanillaea@gmail.com**
-<!--Intro end-->
+---
+
+### 📫 Feel free to reach me out  
+**alejandro.quintanillaea@gmail.com**
+
+---
 
 <p align="center">
-  <!-- Stats card (forzado refresh con v=2) -->
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=saw-cdt&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&locale=en&bg_color=0d1117&text_color=ffffff&v=2&cache_seconds=1800" alt="stats" height="200px"/>
-  <!-- Top languages (forzado refresh con v=2) -->
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&langs_count=8&bg_color=0d1117&text_color=ffffff&v=2&cache_seconds=1800" alt="top languages" height="200px"/>
+  <!-- Stats Card -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=saw-cdt&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=7200" 
+       alt="GitHub Stats" 
+       height="200px" />
+  
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saw-cdt&layout=compact&langs_count=8&theme=github_dark&cache_seconds=7200" 
+       alt="Top Languages" 
+       height="200px" />
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+---
 
-<!--tech stack icons-->
+<h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
+
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,linux&perline=14" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,linux&perline=8" alt="skills"/>
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<!--icons and links-->
+<h2 align="center">Connect With Me 🤝</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-quintanilla-leal-26a360274/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/alex.ql16/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="50" width="50"/>
   </a>
 </p>
 
-<!--profile visit count-->
+---
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=saw-cdt&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=saw-cdt&color=blueviolet&style=for-the-badge)
+
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
